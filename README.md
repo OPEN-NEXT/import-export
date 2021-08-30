@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/374925324.svg)](https://zenodo.org/badge/latestdoi/374925324)
+[![DOI](https://zenodo.org/badge/377853352.svg)](https://zenodo.org/badge/latestdoi/377853352)
 [![GitHub license](https://img.shields.io/github/license/OPEN-NEXT/import-export.svg?style=flat)](./LICENSE)
 
 # ImportExport service, scope and objectives
